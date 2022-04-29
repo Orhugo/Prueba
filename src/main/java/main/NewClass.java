@@ -22,4 +22,8 @@ public class NewClass {
     public static int sumar(int a, int b) {
         return a + b;
     }
+    
+    public boolean tonto(int num) {
+        return num == 0;
+    }
 }
