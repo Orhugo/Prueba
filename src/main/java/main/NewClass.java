@@ -13,4 +13,8 @@ public class NewClass {
         System.out.println("hola");
         System.out.println("segunda prueba");
     }
+    
+    public static int resta(int a, int b) {
+        return a - b;
+    }
 }
