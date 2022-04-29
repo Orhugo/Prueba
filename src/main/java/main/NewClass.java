@@ -12,6 +12,7 @@ public class NewClass {
     public static void main(String[] args) {
         System.out.println("hola");
         System.out.println("segunda prueba");
+        System.out.println("cuesta abajo sin frenos");
     }
     
     public static int resta(int a, int b) {
