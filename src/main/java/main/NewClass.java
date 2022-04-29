@@ -26,4 +26,8 @@ public class NewClass {
     public boolean tonto(int num) {
         return num == 0;
     }
+    
+    public String nombre(String nom) {
+        return "tu nombre es " + nom;
+    }
 }
