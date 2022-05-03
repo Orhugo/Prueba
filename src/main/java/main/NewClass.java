@@ -36,4 +36,8 @@ public class NewClass {
         return i == j;
     }
     
+    
+    public static int multiplicar(int i, int j) {
+        return i*j;
+    }
 }
