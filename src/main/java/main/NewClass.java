@@ -13,6 +13,7 @@ public class NewClass {
         System.out.println("hola");
         System.out.println("segunda prueba");
         System.out.println("cuesta abajo sin frenos");
+        esCierto(2,3);
     }
     
     public static int resta(int a, int b) {
@@ -29,5 +30,9 @@ public class NewClass {
     
     public String nombre(String nom) {
         return "tu nombre es " + nom;
+    }
+    
+    public static Boolean esCierto(int i, int j) {
+        return i == j;
     }
 }
