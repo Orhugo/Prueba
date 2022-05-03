@@ -14,7 +14,6 @@ public class NewClass {
         System.out.println("segunda prueba");
         System.out.println("cuesta abajo sin frenos");
         esCierto(2,3);
-        multiplicar(4,5);
     }
     
     public static int resta(int a, int b) {
@@ -37,7 +36,4 @@ public class NewClass {
         return i == j;
     }
     
-    public static int multiplicar(int i, int j) {
-        return i*j;
-    }
 }
